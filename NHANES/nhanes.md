@@ -9,6 +9,6 @@ The variables are numerically coded.  Code books are available from
 the NHANES web site.  The variables are grouped by category.  There is
 a separate code book for each category at each wave.
 
-Here we provide a single merged file containing all publicly-available
-data for the 2011-2012 NHANES survey.  File an issue if you need data
-for a different wave.
+Here we provide a single merged file containing many of the variables
+for the 2011-2012 NHANES survey.  File an issue if you need additional
+variables or data for a different wave.
